@@ -1,6 +1,6 @@
 # flutter_animation
 
-A new Flutter project.
+A Guide for getting started with Animations on Flutter 
 
 ## Getting Started
 
